@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TESAS on KC is Rocking here</title>
+    <link>https://jokctseng.github.io/tags/tesas/</link>
+    <description>Recent content in TESAS on KC is Rocking here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 22 Mar 2019 04:30:23 +0800</lastBuildDate><atom:link href="https://jokctseng.github.io/tags/tesas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>試營運版地方創生資料庫(TESAS)略覽</title>
+      <link>https://jokctseng.github.io/posts/20190322/</link>
+      <pubDate>Fri, 22 Mar 2019 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/posts/20190322/</guid>
+      <description>TESAS試營運，一起來檢視玩耍吧</description>
+    </item>
+    
+  </channel>
+</rss>

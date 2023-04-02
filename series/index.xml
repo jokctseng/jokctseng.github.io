@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on KC is Rocking here</title>
+    <link>https://jokctseng.github.io/series/</link>
+    <description>Recent content in Series on KC is Rocking here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 10 Mar 2023 04:30:23 +0800</lastBuildDate><atom:link href="https://jokctseng.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>網站公告</title>
+      <link>https://jokctseng.github.io/series/%E7%B6%B2%E7%AB%99%E5%85%AC%E5%91%8A/</link>
+      <pubDate>Fri, 10 Mar 2023 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/series/%E7%B6%B2%E7%AB%99%E5%85%AC%E5%91%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>展覽｜走走看看</title>
+      <link>https://jokctseng.github.io/series/%E5%B1%95%E8%A6%BD%E8%B5%B0%E8%B5%B0%E7%9C%8B%E7%9C%8B/</link>
+      <pubDate>Wed, 28 Oct 2020 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/series/%E5%B1%95%E8%A6%BD%E8%B5%B0%E8%B5%B0%E7%9C%8B%E7%9C%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>綠茵隨筆</title>
+      <link>https://jokctseng.github.io/series/%E7%B6%A0%E8%8C%B5%E9%9A%A8%E7%AD%86/</link>
+      <pubDate>Mon, 02 Mar 2020 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/series/%E7%B6%A0%E8%8C%B5%E9%9A%A8%E7%AD%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>頂きます</title>
+      <link>https://jokctseng.github.io/series/%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%99/</link>
+      <pubDate>Tue, 04 Apr 2017 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/series/%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>影音心得或推薦</title>
+      <link>https://jokctseng.github.io/series/%E5%BD%B1%E9%9F%B3%E5%BF%83%E5%BE%97%E6%88%96%E6%8E%A8%E8%96%A6/</link>
+      <pubDate>Tue, 04 Apr 2017 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/series/%E5%BD%B1%E9%9F%B3%E5%BF%83%E5%BE%97%E6%88%96%E6%8E%A8%E8%96%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>閱讀筆記</title>
+      <link>https://jokctseng.github.io/series/%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98/</link>
+      <pubDate>Wed, 30 Dec 2015 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/series/%E9%96%B1%E8%AE%80%E7%AD%86%E8%A8%98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

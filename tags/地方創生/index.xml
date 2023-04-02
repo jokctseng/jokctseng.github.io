@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>地方創生 on KC is Rocking here</title>
+    <link>https://jokctseng.github.io/tags/%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F/</link>
+    <description>Recent content in 地方創生 on KC is Rocking here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 03 Nov 2020 04:30:23 +0800</lastBuildDate><atom:link href="https://jokctseng.github.io/tags/%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>地方創生困境之共相</title>
+      <link>https://jokctseng.github.io/posts/201103/</link>
+      <pubDate>Tue, 03 Nov 2020 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/posts/201103/</guid>
+      <description>擔任青年諮詢委員對地方創生現狀的觀察與心得</description>
+    </item>
+    
+    <item>
+      <title>試營運版地方創生資料庫(TESAS)略覽</title>
+      <link>https://jokctseng.github.io/posts/20190322/</link>
+      <pubDate>Fri, 22 Mar 2019 04:30:23 +0800</pubDate>
+      
+      <guid>https://jokctseng.github.io/posts/20190322/</guid>
+      <description>TESAS試營運，一起來檢視玩耍吧</description>
+    </item>
+    
+  </channel>
+</rss>
