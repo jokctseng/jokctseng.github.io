@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   repo: "posts/cms" # blog 存放在 Github repo 的位置
   branch: "master" # 分支
-  site_url: "https://kctsengsite.netlify.app/" # 你的網站網址
+  site_url: "https://kctseng.netlify.app/" # 你的網站網址
 
 media_folder: "images" # 存放多媒體的資料夾
 public_folder: "/img"
